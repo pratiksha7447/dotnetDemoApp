@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\handledexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\handledexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\custommiddlewareexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\custommiddlewareexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\customactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\customactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\customexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\middlewares\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|c:\\users\\pratikshat\\source\\repos\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94A73A1-BEA4-4D75-B8CC-216E7FD9E731}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomActivityLogger.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomActivityLogger.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\CustomActivityLogger.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomActivityLogger.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\CustomActivityLogger.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:39:44.916Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandledException.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\HandledException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\HandledException.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\HandledException.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\HandledException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:59:41.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomMiddlewareException.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomMiddlewareException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\CustomMiddlewareException.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomMiddlewareException.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\CustomMiddlewareException.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:59:36.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:59:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:50:53.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:09:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\CustomExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\CustomExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\CustomExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:24:14.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserException.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\UserException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\UserException.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Middlewares\\UserException.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\UserException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:55:47.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:29:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PratikshaT\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:27:15.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
